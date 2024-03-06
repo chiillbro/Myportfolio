@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Ecommerce website",
+    "imageSrc": "projects/project.png",
+    "description": "A project made to improve my knowledge on React, Express, Node and MongoDB.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Food-recipe App",
+    "imageSrc": "projects/food.png",
+    "description": "This is a project made to enhance my skills in React and making website responsive",
+    "skills": ["React", "JavaScript", "Html", "CSS"],
+
+    "source": "https://github.com/chiillbro/Food-Recipe-App"
+  },
+  {
+    "title": "Todo App",
+    "imageSrc": "projects/todo.png",
+    "description": "Simple Todo management app made in the process of learning React",
+    "skills": ["React", "JavaScript", "Html", "CSS"],
+
+    "source": "https://github.com/chiillbro/Todo-App"
+  }
+]
