@@ -1,11 +1,11 @@
 [
   {
-    "title": "Ecommerce website",
-    "imageSrc": "projects/project.png",
-    "description": "A project made to improve my knowledge on React, Express, Node and MongoDB.",
-    "skills": ["React", "Express", "Node", "MongoDB"],
+    "title": "Nike Landing Page",
+    "imageSrc": "projects/nike.png",
+    "description": "Successfully created fully responsive eCommerce website landing page with Tailwind",
+    "skills": ["React", "Html", "JavaScript", "Tailwind"],
 
-    "source": "https://www.github.com"
+    "source": "https://github.com/chiillbro/Nike_landing_page"
   },
   {
     "title": "Food-recipe App",

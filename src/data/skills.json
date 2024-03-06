@@ -20,6 +20,10 @@
     "imageSrc": "skills/python.png"
   },
   {
+    "title": "Tailwind",
+    "imageSrc": "skills/tailwind.png"
+  },
+  {
     "title": "SQL",
     "imageSrc": "skills/sql.png"
   },
