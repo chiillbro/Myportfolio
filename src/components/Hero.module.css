@@ -28,7 +28,9 @@
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
 }
-
+.description {
+  font-size: 1.5em;
+}
 .resumeBtn {
   text-decoration: none;
   background-color: var(--color-primary);
