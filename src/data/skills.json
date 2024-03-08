@@ -16,6 +16,10 @@
     "imageSrc": "skills/react.png"
   },
   {
+    "title": "Next",
+    "imageSrc": "skills/nextjs.png"
+  },
+  {
     "title": "Python",
     "imageSrc": "skills/python.png"
   },
@@ -29,21 +33,8 @@
   },
 
   {
-    "title": "Node",
-    "imageSrc": "skills/node.png"
-  },
-  {
-    "title": "Express",
-    "imageSrc": "skills/express.png"
-  },
-
-  {
-    "title": "MongoDB",
-    "imageSrc": "skills/mongodb.png"
-  },
-  {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
+    "title": "PostgreSQL",
+    "imageSrc": "skills/postgre.png"
   },
   {
     "title": "TypeScript",

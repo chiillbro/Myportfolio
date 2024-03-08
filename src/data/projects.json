@@ -3,24 +3,24 @@
     "title": "Nike Landing Page",
     "imageSrc": "projects/nike.png",
     "description": "Successfully created fully responsive eCommerce website landing page with Tailwind",
-    "skills": ["React", "Html", "JavaScript", "Tailwind"],
-
+    "skills": ["React", "JavaScript", "Tailwind"],
+    "demo": "https://professionalchef.netlify.app/",
     "source": "https://github.com/chiillbro/Nike_landing_page"
   },
   {
     "title": "Food-recipe App",
     "imageSrc": "projects/food.png",
     "description": "This is a project made to enhance my skills in React and making website responsive",
-    "skills": ["React", "JavaScript", "Html", "CSS"],
-
+    "skills": ["React", "JavaScript", "CSS"],
+    "demo": "https://professionalchef.netlify.app/",
     "source": "https://github.com/chiillbro/Food-Recipe-App"
   },
   {
-    "title": "Todo App",
-    "imageSrc": "projects/todo.png",
-    "description": "Simple Todo management app made in the process of learning React",
-    "skills": ["React", "JavaScript", "Html", "CSS"],
-
-    "source": "https://github.com/chiillbro/Todo-App"
+    "title": "Ochi ( Awarded Website Clone )",
+    "imageSrc": "projects/ochi.png",
+    "description": "A Powerful eye-sparkling website created with utmost skills and intelligence",
+    "skills": ["React", "Tailwind", "Framer Motion"],
+    "demo": "https://ochidsgns.netlify.app/",
+    "source": "https://github.com/chiillbro/Ochi_Design"
   }
 ]

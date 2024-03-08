@@ -8,7 +8,7 @@ export default function ProjectCard({
       <img
         className={styles.image}
         src={getImageUrl(imageSrc)}
-        alt={`Image of ${title}`}
+        alt={`img of ${title}`}
       />
       <h3 className={styles.title}>{title}</h3>
       <p className={styles.description}>{description}</p>
@@ -22,6 +22,9 @@ export default function ProjectCard({
         })}
       </ul>
       <div className={styles.links}>
+        <a className={styles.link} href={demo}>
+          Live Demo
+        </a>
         <a className={styles.link} href={source}>
           Source
         </a>

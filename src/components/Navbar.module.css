@@ -16,6 +16,10 @@
   text-decoration: none;
   color: var(--color-text);
 }
+.titleContainer {
+  display: flex;
+  align-items: center;
+}
 .menu {
   display: flex;
 }

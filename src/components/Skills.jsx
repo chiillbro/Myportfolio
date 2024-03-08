@@ -5,7 +5,10 @@ import { getImageUrl } from "../utils";
 export default function Skills() {
   return (
     <section id="skills" className={styles.container}>
-      <h2 className={styles.title}>Skills</h2>
+      <div className={styles.titleContainer}>
+        <h2 className={styles.title}>Skills</h2>
+        <img src={getImageUrl("skills/skills.png")} alt="" />
+      </div>
       <div className={styles.content}>
         <div className={styles.skills}>
           {skills.map((skill, id) => {

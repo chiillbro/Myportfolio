@@ -5,7 +5,10 @@ export default function About() {
   console.log(fdMap);
   return (
     <section id="about" className={styles.container}>
-      <h2 className={styles.title}>A Bit About Me</h2>
+      <div className={styles.titleContainer}>
+        <h2 className={styles.title}>A Bit About Me</h2>
+        <img src={getImageUrl("about/aboutme1.png")} alt="" />
+      </div>
       <div className={styles.content}>
         <img
           className={styles.aboutImage}

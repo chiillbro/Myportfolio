@@ -7,8 +7,8 @@
   background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
   box-shadow: 0 16px 14px 0 #04152d;
   padding: 18px 24px;
-  max-width: 320px;
-  min-height: 530px;
+  max-width: 300px;
+  min-height: 500px;
 }
 
 .image {
@@ -31,38 +31,40 @@
 .skills {
   width: 100%;
   margin-top: 14px;
+  margin-left: -10px;
 
   display: flex;
-  flex-direction: row;
+  justify-content: space-evenly;
 
   flex-wrap: wrap;
 
-  gap: 6px;
+  gap: 4px;
   list-style: none;
   transform: translateX(-20px);
 }
 
 .skill {
-  font-size: 25px;
+  font-size: 20px;
   font-weight: 400;
   border-radius: 100px;
   background: var(--color-dark);
-  padding: 2px 12px;
+  padding: 2px 6px;
 }
 
 .links {
   display: flex;
-  justify-content: center;
+  justify-content: space-evenly;
 }
 
 .link {
   text-decoration: none;
   color: var(--color-text);
-  font-size: 30px;
-  font-weight: 600;
+  font-size: 22px;
+  font-weight: 500;
   border-radius: 100px;
+  gap: 4px;
   background: var(--color-primary);
-  padding: 1px 22px;
+  padding: 1px 10px;
   transition: all 0.3s ease;
 }
 .link:hover {
